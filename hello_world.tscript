@@ -9,3 +9,6 @@
 
 # "Hello World" on the command line
 print("Hello World");
+
+# "Hello World" as an alert
+alert("Hello World!");
