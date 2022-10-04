@@ -12,3 +12,6 @@ print("Hello World");
 
 # "Hello World" as an alert
 alert("Hello World!");
+
+# "Hello World" on the canvas
+canvas.text(canvas.width()/2 - 50,canvas.height()/2,"Hello World!");
